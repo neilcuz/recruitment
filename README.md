@@ -2,7 +2,7 @@
 
 Thank you for your interest in the role at the International Rescue Committee.
 
-In place of a cover letter, please complete this short data task. It should take no more than 10 minutes.
+In place of a cover letter, please complete this short data task. It should take less time than writing a traditional cover letter.
 
 ## Files
 
