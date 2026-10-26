@@ -31,7 +31,7 @@ The data is synthetic and does not relate to real donors.
 
 ## Instructions
 
-Use any tool you like (Excel, SQL, Python, R or similar).
+Use any tool you like (SQL, Python, R or similar).
 
 - Use only gifts with status **Completed**.
 - Years are calendar years, based on gift_date.
