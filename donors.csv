@@ -1,0 +1,401 @@
+donor_id,segment,country
+D0001,Standard Value,US
+D0002,Standard Value,US
+D0003,Standard Value,US
+D0004,Standard Value,US
+D0005,Standard Value,US
+D0006,Mid-Level,UK
+D0007,High Value,US
+D0008,Standard Value,UK
+D0009,Standard Value,US
+D0010,Standard Value,UK
+D0011,High Value,US
+D0012,High Value,UK
+D0013,Standard Value,UK
+D0014,Mid-Level,UK
+D0015,Standard Value,US
+D0016,Mid-Level,US
+D0017,Standard Value,UK
+D0018,Standard Value,US
+D0019,Standard Value,US
+D0020,Standard Value,US
+D0021,Standard Value,US
+D0022,Standard Value,US
+D0023,Standard Value,US
+D0024,Standard Value,UK
+D0025,Standard Value,US
+D0026,Standard Value,US
+D0027,Standard Value,US
+D0028,Standard Value,US
+D0029,Standard Value,UK
+D0030,Standard Value,UK
+D0031,Standard Value,US
+D0032,Mid-Level,US
+D0033,Mid-Level,US
+D0034,Standard Value,UK
+D0035,Standard Value,US
+D0036,High Value,US
+D0037,Standard Value,UK
+D0038,Standard Value,US
+D0039,High Value,US
+D0040,Standard Value,US
+D0041,Standard Value,UK
+D0042,Standard Value,US
+D0043,Standard Value,UK
+D0044,Mid-Level,US
+D0045,Standard Value,US
+D0046,Standard Value,US
+D0047,Standard Value,UK
+D0048,Standard Value,US
+D0049,Mid-Level,US
+D0050,Standard Value,US
+D0051,Standard Value,UK
+D0052,Standard Value,US
+D0053,Standard Value,US
+D0054,Standard Value,UK
+D0055,Standard Value,US
+D0056,Standard Value,US
+D0057,Standard Value,UK
+D0058,Standard Value,UK
+D0059,Standard Value,US
+D0060,Mid-Level,US
+D0061,Standard Value,UK
+D0062,Standard Value,US
+D0063,Standard Value,UK
+D0064,Standard Value,US
+D0065,High Value,US
+D0066,High Value,US
+D0067,Standard Value,US
+D0068,Standard Value,UK
+D0069,Mid-Level,US
+D0070,Standard Value,US
+D0071,Standard Value,US
+D0072,Standard Value,UK
+D0073,Mid-Level,US
+D0074,High Value,UK
+D0075,Mid-Level,US
+D0076,Standard Value,UK
+D0077,Standard Value,UK
+D0078,High Value,UK
+D0079,Standard Value,US
+D0080,Standard Value,UK
+D0081,Standard Value,US
+D0082,Standard Value,US
+D0083,Standard Value,US
+D0084,Standard Value,US
+D0085,Standard Value,US
+D0086,Standard Value,UK
+D0087,Standard Value,US
+D0088,Standard Value,US
+D0089,Standard Value,UK
+D0090,Mid-Level,US
+D0091,High Value,US
+D0092,Standard Value,US
+D0093,High Value,UK
+D0094,Mid-Level,UK
+D0095,Standard Value,UK
+D0096,Standard Value,UK
+D0097,Standard Value,US
+D0098,High Value,US
+D0099,Standard Value,US
+D0100,Standard Value,US
+D0101,Mid-Level,UK
+D0102,Standard Value,US
+D0103,Standard Value,UK
+D0104,Standard Value,US
+D0105,Mid-Level,US
+D0106,Standard Value,US
+D0107,Standard Value,US
+D0108,Mid-Level,US
+D0109,Standard Value,US
+D0110,Standard Value,UK
+D0111,Standard Value,US
+D0112,Standard Value,US
+D0113,Standard Value,UK
+D0114,Standard Value,US
+D0115,Standard Value,US
+D0116,Standard Value,UK
+D0117,Standard Value,US
+D0118,Standard Value,US
+D0119,Standard Value,US
+D0120,Standard Value,US
+D0121,Standard Value,UK
+D0122,Mid-Level,UK
+D0123,Standard Value,UK
+D0124,Standard Value,US
+D0125,Standard Value,US
+D0126,Standard Value,UK
+D0127,Standard Value,UK
+D0128,Mid-Level,UK
+D0129,Standard Value,US
+D0130,Standard Value,UK
+D0131,High Value,UK
+D0132,Standard Value,UK
+D0133,Mid-Level,US
+D0134,Mid-Level,UK
+D0135,Standard Value,UK
+D0136,Standard Value,US
+D0137,Mid-Level,US
+D0138,Mid-Level,US
+D0139,Standard Value,UK
+D0140,Standard Value,US
+D0141,Standard Value,US
+D0142,Standard Value,UK
+D0143,Standard Value,UK
+D0144,Standard Value,US
+D0145,High Value,UK
+D0146,Standard Value,US
+D0147,Standard Value,US
+D0148,Standard Value,US
+D0149,Standard Value,US
+D0150,Standard Value,UK
+D0151,High Value,UK
+D0152,Standard Value,US
+D0153,Standard Value,US
+D0154,Standard Value,UK
+D0155,Standard Value,US
+D0156,Standard Value,UK
+D0157,Mid-Level,US
+D0158,Standard Value,US
+D0159,Standard Value,US
+D0160,Mid-Level,US
+D0161,Standard Value,UK
+D0162,Standard Value,US
+D0163,Standard Value,US
+D0164,Mid-Level,UK
+D0165,Standard Value,US
+D0166,Standard Value,US
+D0167,High Value,UK
+D0168,Standard Value,UK
+D0169,Standard Value,UK
+D0170,Standard Value,UK
+D0171,Standard Value,UK
+D0172,Standard Value,UK
+D0173,Standard Value,US
+D0174,High Value,US
+D0175,High Value,US
+D0176,Standard Value,US
+D0177,Mid-Level,US
+D0178,Standard Value,US
+D0179,Mid-Level,US
+D0180,Standard Value,UK
+D0181,Mid-Level,UK
+D0182,Mid-Level,US
+D0183,Mid-Level,US
+D0184,High Value,US
+D0185,Standard Value,US
+D0186,Standard Value,US
+D0187,Mid-Level,US
+D0188,Standard Value,UK
+D0189,Standard Value,US
+D0190,Standard Value,US
+D0191,Standard Value,US
+D0192,Standard Value,US
+D0193,Standard Value,UK
+D0194,Standard Value,US
+D0195,Standard Value,US
+D0196,Standard Value,US
+D0197,High Value,UK
+D0198,Standard Value,US
+D0199,Standard Value,UK
+D0200,Standard Value,US
+D0201,Mid-Level,US
+D0202,Standard Value,UK
+D0203,Standard Value,US
+D0204,Mid-Level,US
+D0205,Mid-Level,UK
+D0206,Mid-Level,US
+D0207,Standard Value,UK
+D0208,Standard Value,US
+D0209,Mid-Level,US
+D0210,Mid-Level,US
+D0211,Standard Value,UK
+D0212,Standard Value,US
+D0213,Standard Value,UK
+D0214,Standard Value,UK
+D0215,Standard Value,UK
+D0216,Standard Value,US
+D0217,Standard Value,US
+D0218,High Value,UK
+D0219,Standard Value,US
+D0220,Standard Value,US
+D0221,Standard Value,UK
+D0222,Standard Value,UK
+D0223,Standard Value,UK
+D0224,Standard Value,US
+D0225,Standard Value,UK
+D0226,Standard Value,UK
+D0227,Standard Value,US
+D0228,High Value,UK
+D0229,Standard Value,UK
+D0230,Mid-Level,US
+D0231,Standard Value,US
+D0232,Standard Value,US
+D0233,Mid-Level,UK
+D0234,Standard Value,US
+D0235,Standard Value,UK
+D0236,Standard Value,UK
+D0237,Standard Value,UK
+D0238,Standard Value,UK
+D0239,Standard Value,US
+D0240,Standard Value,US
+D0241,Mid-Level,UK
+D0242,High Value,US
+D0243,High Value,US
+D0244,Standard Value,US
+D0245,Standard Value,US
+D0246,Standard Value,US
+D0247,Standard Value,UK
+D0248,Standard Value,US
+D0249,Standard Value,UK
+D0250,Standard Value,US
+D0251,High Value,UK
+D0252,Standard Value,UK
+D0253,Standard Value,US
+D0254,High Value,US
+D0255,Standard Value,UK
+D0256,Mid-Level,US
+D0257,Standard Value,UK
+D0258,High Value,UK
+D0259,High Value,UK
+D0260,Standard Value,UK
+D0261,High Value,US
+D0262,Standard Value,UK
+D0263,Standard Value,US
+D0264,Mid-Level,US
+D0265,Standard Value,UK
+D0266,Standard Value,US
+D0267,Standard Value,US
+D0268,Standard Value,UK
+D0269,Mid-Level,UK
+D0270,Standard Value,US
+D0271,Standard Value,UK
+D0272,High Value,UK
+D0273,High Value,UK
+D0274,Mid-Level,US
+D0275,Standard Value,US
+D0276,Standard Value,US
+D0277,Standard Value,US
+D0278,Standard Value,US
+D0279,Standard Value,US
+D0280,Standard Value,US
+D0281,Mid-Level,US
+D0282,Standard Value,US
+D0283,Standard Value,UK
+D0284,Standard Value,US
+D0285,Mid-Level,US
+D0286,Mid-Level,UK
+D0287,Mid-Level,UK
+D0288,High Value,US
+D0289,Standard Value,US
+D0290,Mid-Level,UK
+D0291,Standard Value,US
+D0292,Standard Value,US
+D0293,High Value,UK
+D0294,Standard Value,US
+D0295,Mid-Level,UK
+D0296,Standard Value,UK
+D0297,Standard Value,UK
+D0298,Standard Value,US
+D0299,Standard Value,UK
+D0300,Mid-Level,UK
+D0301,Mid-Level,US
+D0302,Standard Value,US
+D0303,Standard Value,UK
+D0304,Standard Value,US
+D0305,Standard Value,US
+D0306,Standard Value,US
+D0307,Standard Value,US
+D0308,Standard Value,US
+D0309,Standard Value,US
+D0310,Standard Value,US
+D0311,Standard Value,US
+D0312,Mid-Level,UK
+D0313,Standard Value,US
+D0314,Mid-Level,UK
+D0315,Mid-Level,US
+D0316,Standard Value,US
+D0317,Standard Value,UK
+D0318,Standard Value,UK
+D0319,Standard Value,UK
+D0320,Standard Value,US
+D0321,Mid-Level,UK
+D0322,Mid-Level,US
+D0323,Standard Value,UK
+D0324,Mid-Level,UK
+D0325,Standard Value,UK
+D0326,Mid-Level,UK
+D0327,Standard Value,UK
+D0328,Standard Value,UK
+D0329,Mid-Level,US
+D0330,Mid-Level,US
+D0331,Standard Value,US
+D0332,Mid-Level,US
+D0333,Standard Value,US
+D0334,Standard Value,US
+D0335,Mid-Level,US
+D0336,Standard Value,US
+D0337,Mid-Level,US
+D0338,Standard Value,UK
+D0339,High Value,UK
+D0340,High Value,US
+D0341,High Value,UK
+D0342,High Value,US
+D0343,Standard Value,UK
+D0344,Standard Value,US
+D0345,Mid-Level,US
+D0346,Standard Value,US
+D0347,Standard Value,UK
+D0348,Standard Value,US
+D0349,Standard Value,US
+D0350,Mid-Level,UK
+D0351,Standard Value,UK
+D0352,Mid-Level,US
+D0353,Standard Value,UK
+D0354,Standard Value,US
+D0355,Standard Value,US
+D0356,Standard Value,US
+D0357,Standard Value,UK
+D0358,Standard Value,UK
+D0359,Standard Value,UK
+D0360,Standard Value,UK
+D0361,Standard Value,UK
+D0362,Standard Value,UK
+D0363,Mid-Level,US
+D0364,Mid-Level,US
+D0365,High Value,UK
+D0366,Standard Value,US
+D0367,Mid-Level,US
+D0368,Standard Value,UK
+D0369,High Value,US
+D0370,Standard Value,US
+D0371,Standard Value,UK
+D0372,Standard Value,UK
+D0373,Mid-Level,US
+D0374,Standard Value,US
+D0375,High Value,US
+D0376,Standard Value,US
+D0377,Mid-Level,UK
+D0378,Standard Value,US
+D0379,Standard Value,UK
+D0380,Standard Value,UK
+D0381,Standard Value,US
+D0382,Standard Value,UK
+D0383,Standard Value,UK
+D0384,Standard Value,US
+D0385,Standard Value,US
+D0386,Standard Value,UK
+D0387,Standard Value,UK
+D0388,High Value,UK
+D0389,Standard Value,US
+D0390,Standard Value,US
+D0391,Mid-Level,US
+D0392,Standard Value,US
+D0393,Standard Value,US
+D0394,Standard Value,US
+D0395,Standard Value,UK
+D0396,Standard Value,UK
+D0397,Standard Value,US
+D0398,Mid-Level,UK
+D0399,Standard Value,US
+D0400,Standard Value,US
